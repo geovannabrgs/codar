@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+.codar {
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+    color: #D6000D;
+    padding-right: 108px;
+}
+
+.menu {
+    font-size: 9px;
+    padding: 5px;
+}
+
+.botao-login {
+    border: #D6000D solid 1px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #D6000D;
+    padding: 3px 20px;
+    font-size: 9px;
+}
+
+.website img {
+    width: 115px;
+    height: 102px;
+}
+
+.website {
+    display: inline-block;
+    padding: 40px;
+}
+
+.alavanque-web {
+    float: right;
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.alavanque {
+    font-weight: 900;
+    font-size: 7px;
+}
+
+.web-incrivel {
+    margin-left: 20px;
+    color: #D6000D;
+    font-weight: 700;
+    font-size: 19px;
+    margin-top: 5px;
+    line-height: 0.8;
+    letter-spacing: -1px;
+}
+
+.orcamento {
+    margin-left: 20px;
+    margin-top: 17px;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 8px;
+    background-color: #D6000D;
+    color: #ffffff;
+    padding: 3px;
+}
+
+.inf-videocall {
+    display: inline;
+}
+
+.inf-video {
+    float: left;
+    font-size: 9px;
+    margin-left: 200px;
+}
+
+.videocall-img img {
+    width: 250px;
+    height: 250px;
+}
