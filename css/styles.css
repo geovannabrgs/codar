@@ -73,7 +73,7 @@
     font-size: 8px;
     background-color: #D6000D;
     color: #ffffff;
-    padding: 3px;
+    padding: 3px 1px;
 }
 
 .inf-videocall {
@@ -81,12 +81,64 @@
 }
 
 .inf-video {
+    margin-top: 60px;
     float: left;
-    font-size: 9px;
-    margin-left: 200px;
+    font-size: 10px;
+    margin-left: 524px;
+    text-align: start;
+}
+
+.inf {
+    padding-left: 10px;
 }
 
 .videocall-img img {
-    width: 250px;
-    height: 250px;
+    margin-top: 30px;
+    width: 155px;
+    height: 135px;
+    margin-right: 445px;
+}
+
+.nossa-equipe {
+    font-weight: bold;
+    font-size: 9px;
+    margin-right: 160px;
+    margin-top: 15px;
+}
+
+.inf-equipe {
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+p {
+    display: inline-flex;
+}
+
+.celular {
+    margin-left: 43px;
+    margin-right: 4px;
+    font-size: 10px;
+    opacity: 0.3;
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 7px;
+    width: 140px;
+    height: 30px;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.liga-voce {
+    margin-right: 50px;
+    font-size: 10px;
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 7px;
+    width: 140px;
+    height: 30px;
+    align-items: center;
+    padding-left: 25px;
+    background-color: #D6000D;
+    color: #FFFFFF;
 }
